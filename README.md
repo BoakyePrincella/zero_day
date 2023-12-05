@@ -1,1 +1,1 @@
-My first readme
+Consistency is the key
